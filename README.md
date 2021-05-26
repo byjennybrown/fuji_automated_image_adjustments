@@ -1,0 +1,1 @@
+# fuji_automated_image_adjustments
